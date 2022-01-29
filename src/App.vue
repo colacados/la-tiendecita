@@ -44,7 +44,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background-color: rgba(240, 240, 240, 0.363);
+  background-color: rgba(135, 181, 190, 0.363);
   
 }
 .contenedor{
